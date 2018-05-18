@@ -16,7 +16,7 @@
 
   /* NAV*/
 nav{
-  background-color: #a4c5be7;
+  background-color: #a4c5be;
   display: flex;
   justify-content: flex-start;
 }
@@ -29,7 +29,6 @@ nav ul{
   nav ul li{
     display: block;
     height: 50px
-    justify-content: center;
   }
 
   nav ul li a{
@@ -37,15 +36,21 @@ nav ul{
     height: 50px;
     color: #131314;
     font-size: 40px;
-<<<<<<< HEAD
-    padding: 0px 90px 0px 90px;
     font-family: 'Inconsolata', monospace;
-    text-decoration: none;
-=======
-    padding-left: 150px;
+    padding: 0px 90px 0px 90px;
 
->>>>>>> da752cb51ac81bb248c5d8eceee5da87a95fe337
   }
+
+  nav ul li:hover{
+    background-color: #7f9d9d;
+    cursor: crosshair;
+  }
+
+  nav ul li a:hover{
+    color: white;
+    cursor: crosshair;
+  }
+
 
 
 
