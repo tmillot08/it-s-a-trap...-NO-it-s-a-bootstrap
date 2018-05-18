@@ -146,26 +146,35 @@ nav ul{
     background-color: #ffffff;
     border-color: #131314;
   }
- /*footer*/
-  footer {
-   background-color : #a4c5be;
-   color : #131314;
-     font-family: 'Inconsolata', monospace;
-}
-table {
-border-collapse : collapse;
-width : 100%;}
-td{
-	width : 10%;
-}
 
-ul {
-	marging :0;
-}
-.contact{
-	width : 60%;
-	text-align : right;
-}
- footer a {
-	text-decoration : none;
-}
+  /*footer*/
+  footer {
+    padding:25px;
+    border-radius:5px;
+    background-color : rgba(127,157,157, 0.5);
+    color : #131314;
+    font-family: 'Inconsolata', monospace;
+ }
+
+ table {
+ border-collapse : collapse;
+ width : 100%;}
+
+ td{
+ 	width : 10%;
+ }
+
+
+ ul {list-style-type: circle;
+   font-weight:lighter;
+ 	marging :0;
+ }
+
+ .contact{
+ 	width : 60%;
+ 	text-align : right;
+ }
+
+  footer a {cursor: crosshair;
+ 	text-decoration : none;
+ }
