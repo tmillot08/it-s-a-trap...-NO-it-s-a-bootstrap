@@ -212,3 +212,9 @@ color:#416856;}
    color:#131314;
   	text-decoration : none;
   }
+
+/*cache*/
+
+.mail{
+	display: none ;
+}
