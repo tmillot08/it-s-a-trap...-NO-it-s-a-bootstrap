@@ -16,7 +16,7 @@
 
   /* NAV*/
 nav{
-  background-color: #a4c5be;
+  background-color: #a4c5be7;
   display: flex;
   justify-content: flex-start;
 }
@@ -29,6 +29,7 @@ nav ul{
   nav ul li{
     display: block;
     height: 50px
+    justify-content: center;
   }
 
   nav ul li a{
@@ -36,20 +37,17 @@ nav ul{
     height: 50px;
     color: #131314;
     font-size: 40px;
+<<<<<<< HEAD
     padding: 0px 90px 0px 90px;
     font-family: 'Inconsolata', monospace;
     text-decoration: none;
+=======
+    padding-left: 150px;
+
+>>>>>>> da752cb51ac81bb248c5d8eceee5da87a95fe337
   }
 
-nav ul li:hover {
-  background-color: #7f9d9d;
-  cursor: crosshair;
-}
 
-nav ul li a:hover {
-  color: white;
-  cursor: crosshair;
-}
 
   /* Card*/
 
@@ -59,10 +57,45 @@ nav ul li a:hover {
 
 
 
-h1 {font-family: 'Inconsolata', monospace;}
-h2 {font-family: 'Inconsolata', monospace;}
-h3 {font-family: 'Inconsolata', monospace;}
-h4 {font-family: 'Montserrat', sans-serif;}
-h5 {font-family: 'Montserrat', sans-serif;}
-h6 {font-family: 'Montserrat', sans-serif;}
-p {font-family: 'Montserrat', sans-serif;}
+
+
+
+
+
+
+  h1 {font-family: 'Inconsolata', monospace;
+    color:#131314;
+    text-align:justify;
+    letter-spacing:10px;
+  }
+
+  h2 {font-family: 'Inconsolata', monospace;
+  color:#131314;
+  text-align:justify;
+  letter-spacing:5px;
+  }
+
+  h3 {font-family: 'Inconsolata', monospace;
+  color:#131314;
+  text-align:justify;
+  }
+
+  h4 {font-family: 'Montserrat', sans-serif;
+  color:#131314;
+  text-align:justify;
+  }
+
+  h5 {font-family: 'Montserrat', sans-serif;
+  color:#131314;
+  text-align:justify;
+  }
+
+  h6 {font-family: 'Montserrat', sans-serif;
+  color:#131314;
+  text-align:justify;
+  }
+
+  p {font-family: 'Montserrat', sans-serif;
+  color:#131314;
+  text-align:justify;
+  }
