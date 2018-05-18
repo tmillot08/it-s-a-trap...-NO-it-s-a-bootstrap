@@ -72,7 +72,7 @@ nav ul{
     right: 0;
     bottom: 0;
     background-color: gray;
-    opacity: 80%;
+    opacity: 0.8;
     z-index: 2;
     cursor: pointer;
 }
@@ -85,6 +85,7 @@ nav ul{
     width: 50%;
     transform: translate(-50%,-50%);
     -ms-transform: translate(-50%,-50%);
+    opacity: 1;
 }
 
 
