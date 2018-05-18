@@ -14,6 +14,7 @@
    *Paragraphes : font-family: 'Montserrat', sans-serif;
   */
 
+  /* NAV*/
 nav{
   background-color: #a4c5be7;
   display: flex;
@@ -36,12 +37,23 @@ nav ul{
     height: 50px;
     color: #131314;
     font-size: 40px;
+<<<<<<< HEAD
+    padding: 0px 90px 0px 90px;
+    font-family: 'Inconsolata', monospace;
+    text-decoration: none;
+=======
     padding-left: 150px;
 
+>>>>>>> da752cb51ac81bb248c5d8eceee5da87a95fe337
   }
 
 
 
+  /* Card*/
+
+.col-lg-11 {
+    margin: auto;
+  }
 
 
 
