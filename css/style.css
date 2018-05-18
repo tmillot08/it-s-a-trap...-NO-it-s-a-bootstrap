@@ -216,7 +216,8 @@ color:#416856;}
 /*cache*/
 
 .mail{
-	display: none ;
+	display: none
+		text-align : center;
 }
 
 body{
