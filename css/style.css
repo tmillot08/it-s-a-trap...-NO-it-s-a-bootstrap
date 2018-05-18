@@ -36,7 +36,8 @@ nav ul{
     color: #131314;
     font-size: 40px;
     padding: 0px 75px 0px 75px;
-
+    font-family: 'Inconsolata', monospace;
+    text-decoration: none;
   }
 
 nav ul li:hover {
