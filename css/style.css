@@ -13,7 +13,18 @@
    *Titres : font-family: 'Inconsolata', monospace;
    *Paragraphes : font-family: 'Montserrat', sans-serif;
   */
-  <<<<<<< HEAD
+
+nav{
+  background-color: #a4c5be7;
+  display: flex;
+  justify-content: flex-start;
+}
+
+nav ul{
+  display: flex;
+  justify-content: flex-start;
+}
+
   nav ul li{
     display: block;
     height: 50px
@@ -28,12 +39,6 @@
     padding-left: 150px;
 
   }
-
-
-
-
-
-
 
 
 
