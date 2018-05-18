@@ -7,6 +7,7 @@
   *Vert foncé : Hex #003d3a Rgb (0,61,58)
   *Noir (pour le texte) : Hex #131314 Rgb (19,19,20)
  */
+<<<<<<< HEAD
 nav{
   background-color: #a4c5be;
   display: flex;
@@ -31,3 +32,11 @@ nav ul li a{
   padding-left: 20px;
   justify-content: center;
 }
+=======
+
+ /*!
+   *Typos
+   *Titres : font-family: 'Inconsolata', monospace;
+   *Paragraphes : font-family: 'Montserrat', sans-serif;
+  */
+>>>>>>> f64e10b08e4baea13f7591b752eb1981e75533ad
