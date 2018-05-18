@@ -164,6 +164,8 @@ nav ul{
  	width : 10%;
  }
 
+.prenom {font-size:150%;
+color:#416856;}
 
  ul {list-style-type: circle;
    font-weight:lighter;
