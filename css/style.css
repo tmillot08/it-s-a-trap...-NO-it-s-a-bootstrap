@@ -104,3 +104,8 @@ nav ul{
   color:#131314;
   text-align:justify;
   }
+
+  img {
+    height: 80%;
+    width: 100%;
+  }
