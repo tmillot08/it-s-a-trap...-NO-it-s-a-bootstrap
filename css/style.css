@@ -171,10 +171,13 @@ nav ul{
  }
 
  .contact{
+  font-size:60px;
  	width : 60%;
  	text-align : right;
  }
 
-  footer a {cursor: crosshair;
+  footer a {padding-right:25px;
+    cursor: crosshair;
+  color:#ffffff;
  	text-decoration : none;
  }
