@@ -13,7 +13,7 @@
    *Titres : font-family: 'Inconsolata', monospace;
    *Paragraphes : font-family: 'Montserrat', sans-serif;
   */
- 
+
   /*Headphoto*/
 
   .teamphoto{
@@ -93,8 +93,8 @@ nav ul{
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: gray;
-    opacity: 0.8;
+    background-color: rgba (198, 198, 200, 0.8);
+    backopacity: 0.8;
     z-index: 2;
     cursor: pointer;
 }
@@ -103,11 +103,10 @@ nav ul{
     position: absolute;
     top: 50%;
     left: 50%;
-    height: 50%;
-    width: 50%;
+    height: 80%;
+    width: 80%;
     transform: translate(-50%,-50%);
     -ms-transform: translate(-50%,-50%);
-    opacity: 1;
 }
 
 
