@@ -14,6 +14,28 @@
    *Paragraphes : font-family: 'Montserrat', sans-serif;
   */
 
+  /*Headphoto*/
+
+  .teamphoto{
+    background-image: url(../img/2.jpg);
+    background-size: 100% 400px;
+    height: 400px;
+    width: 100%;
+    background-repeat: no-repeat;
+  }
+
+  #teamtext {
+    font-size: 70px;
+    position: relative;
+    top: 50%;
+    left: 25%;
+    border: 5px solid;
+    margin-right: 676px;
+    padding-left: 15px;
+    background-color: #a4c5be;
+    opacity: 0.8;
+  }
+
   /* NAV*/
 nav{
   background-color: #a4c5be;
@@ -147,26 +169,46 @@ nav ul{
     background-color: #ffffff;
     border-color: #131314;
   }
- /*footer*/
-  footer {
-   background-color : #a4c5be;
-   color : #131314;
-     font-family: 'Inconsolata', monospace;
-}
-table {
-border-collapse : collapse;
-width : 100%;}
-td{
-	width : 10%;
-}
 
-ul {
-	marging :0;
-}
-.contact{
-	width : 60%;
-	text-align : right;
-}
- footer a {
-	text-decoration : none;
-}
+  /*footer*/
+  footer {
+    padding:25px;
+    border-radius:5px;
+    background-color : rgba(127,157,157, 0.5);
+    color : #131314;
+    font-family: 'Inconsolata', monospace;
+ }
+
+ table {
+ border-collapse : collapse;
+ width : 100%;}
+
+ td{
+ 	width : 10%;
+ }
+
+.prenom {font-size:150%;
+color:#416856;}
+
+ ul {list-style-type: circle;
+   font-weight:lighter;
+ 	marging :0;
+ }
+
+ .contact{text-emphasis:  sesame #416856;
+  font-size:60px;
+ 	width : 60%;
+ 	text-align : right;
+ }
+
+  footer a {padding-right:25px;
+    cursor: crosshair;
+  color:#ffffff;
+ 	text-decoration : none;
+ }
+
+   footer a:hover {
+     cursor: crosshair;
+   color:#131314;
+  	text-decoration : none;
+  }
