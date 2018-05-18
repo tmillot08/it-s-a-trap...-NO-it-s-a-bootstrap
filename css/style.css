@@ -14,9 +14,6 @@
    *Paragraphes : font-family: 'Montserrat', sans-serif;
   */
 
-<<<<<<< HEAD
-  <<<<<<< HEAD
-=======
 nav{
   background-color: #a4c5be;
   display: flex;
@@ -28,11 +25,9 @@ nav ul{
   justify-content: flex-start;
 }
 
->>>>>>> b1f9100dcdc8e1eeb26aeef97ce9f9e825e4ee77
   nav ul li{
     display: block;
     height: 50px
-    justify-content: center;
   }
 
   nav ul li a{
@@ -45,57 +40,18 @@ nav ul{
   }
 
 nav ul li:hover {
-  background-color: ##7f9d9d;
+  background-color: #7f9d9d;
+  cursor: crosshair;
+}
+
+nav ul li a:hover {
+  color: white;
   cursor: crosshair;
 }
 
 
 
 
-<<<<<<< HEAD
-
-
-
-
-
-
-  h1 {font-family: 'Inconsolata', monospace;
-    color:#131314;
-    text-align:justify;
-    letter-spacing:10px;
-  }
-
-  h2 {font-family: 'Inconsolata', monospace;
-  color:#131314;
-  text-align:justify;
-  letter-spacing:5px;
-  }
-
-  h3 {font-family: 'Inconsolata', monospace;
-  color:#131314;
-  text-align:justify;
-  }
-
-  h4 {font-family: 'Montserrat', sans-serif;
-  color:#131314;
-  text-align:justify;
-  }
-
-  h5 {font-family: 'Montserrat', sans-serif;
-  color:#131314;
-  text-align:justify;
-  }
-
-  h6 {font-family: 'Montserrat', sans-serif;
-  color:#131314;
-  text-align:justify;
-  }
-
-  p {font-family: 'Montserrat', sans-serif;
-  color:#131314;
-  text-align:justify;   
-  }
-=======
 h1 {font-family: 'Inconsolata', monospace;}
 h2 {font-family: 'Inconsolata', monospace;}
 h3 {font-family: 'Inconsolata', monospace;}
@@ -103,4 +59,3 @@ h4 {font-family: 'Montserrat', sans-serif;}
 h5 {font-family: 'Montserrat', sans-serif;}
 h6 {font-family: 'Montserrat', sans-serif;}
 p {font-family: 'Montserrat', sans-serif;}
->>>>>>> b1f9100dcdc8e1eeb26aeef97ce9f9e825e4ee77
