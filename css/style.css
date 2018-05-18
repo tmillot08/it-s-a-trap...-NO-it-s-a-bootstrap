@@ -93,8 +93,7 @@ nav ul{
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: gray;
-    opacity: 80%;
+    background-color: rgba(19,19,20, 0.8);
     z-index: 2;
     cursor: pointer;
 }
@@ -103,8 +102,8 @@ nav ul{
     position: absolute;
     top: 50%;
     left: 50%;
-    height: 50%;
-    width: 50%;
+    height: 80%;
+    width: 80%;
     transform: translate(-50%,-50%);
     -ms-transform: translate(-50%,-50%);
 }
@@ -216,10 +215,15 @@ color:#416856;}
 /*cache*/
 
 .mail{
+<<<<<<< HEAD
 	display: none
 		text-align : center;
+=======
+	display: none;
+  text-align: center;
+>>>>>>> 937ec8d679cc5548b58a921c75cb42a9e55e666f
 }
 
 body{
-  background-color: rgba(164,197,190, 0.5);
+  background-color: rgba(164,197,190, 0.4);
 }
