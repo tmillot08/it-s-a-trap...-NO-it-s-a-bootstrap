@@ -209,9 +209,9 @@ color:#416856;}
    footer a:hover {
      cursor: crosshair;
    color:#131314;
-  	text-decoration : none;
+  	text-decoration : "none";
   }
-<<<<<<< HEAD
+
 
 /*cache*/
 
@@ -220,7 +220,5 @@ color:#416856;}
 }
 
 body{
-  background-color: lightblue
+  background-color: rgba(164,197,190, 0.5);
 }
-=======
->>>>>>> 2f7493e01460dd131916713e36c062829d87c75d
