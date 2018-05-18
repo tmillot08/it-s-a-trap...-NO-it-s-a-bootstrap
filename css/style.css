@@ -5,5 +5,29 @@
   *Bleu : Hex #7f9d9d Rgb (127,157,157)
   *Vert : Hex #416856 Rgb (65,104,86)
   *Vert foncé : Hex #003d3a Rgb (0,61,58)
-  *Noir (pour le texte) : Hex #131314 Rgb (19,19,20)  
+  *Noir (pour le texte) : Hex #131314 Rgb (19,19,20)
  */
+nav{
+  background-color: #a4c5be;
+  display: flex;
+  justify-content: flex-start;
+}
+
+nav ul{
+  display: flex;
+  justify-content: flex-start
+ }
+
+nav ul li{
+  display: block;
+  height: 50px
+}
+
+nav ul li a{
+  display: block;
+  height: 50px;
+  color: #131314;
+  font-size: 40px;
+  padding-left: 20px;
+  justify-content: center;
+}
