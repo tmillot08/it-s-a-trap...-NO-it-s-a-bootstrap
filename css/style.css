@@ -41,7 +41,7 @@ nav ul{
   }
 
 nav ul li:hover {
-  background-color: black;
+  background-color: ##7f9d9d;
   cursor: crosshair;
 }
 
