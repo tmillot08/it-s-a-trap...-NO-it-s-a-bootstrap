@@ -170,7 +170,7 @@ nav ul{
  	marging :0;
  }
 
- .contact{
+ .contact{text-emphasis:  sesame #416856;
   font-size:60px;
  	width : 60%;
  	text-align : right;
@@ -181,3 +181,9 @@ nav ul{
   color:#ffffff;
  	text-decoration : none;
  }
+
+   footer a:hover {
+     cursor: crosshair;
+   color:#131314;
+  	text-decoration : none;
+  }
