@@ -111,10 +111,10 @@ nav ul{
 }
 
   .btn-primary {
-    border-radius:50px;
+    border-radius:5px;
     color: #131314;
     background-color: rgba(0,61,58, 0.5);
-    border-color: #131314;
+    border:2px solid #131314;
   }
 
   .btn-primary:hover {
