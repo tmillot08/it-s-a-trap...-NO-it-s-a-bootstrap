@@ -7,28 +7,43 @@
   *Vert foncé : Hex #003d3a Rgb (0,61,58)
   *Noir (pour le texte) : Hex #131314 Rgb (19,19,20)
  */
-nav{
-  background-color: #a4c5be;
-  display: flex;
-  justify-content: flex-start;
-}
 
-nav ul{
-  display: flex;
-  justify-content: flex-start
- }
+ /*!
+   *Typos
+   *Titres : font-family: 'Inconsolata', monospace;
+   *Paragraphes : font-family: 'Montserrat', sans-serif;
+  */
+  <<<<<<< HEAD
+  nav ul li{
+    display: block;
+    height: 50px
+    justify-content: center;
+  }
 
-nav ul li{
-  display: block;
-  height: 50px
-  justify-content: center;
-}
+  nav ul li a{
+    display: block;
+    height: 50px;
+    color: #131314;
+    font-size: 40px;
+    padding-left: 150px;
 
-nav ul li a{
-  display: block;
-  height: 50px;
-  color: #131314;
-  font-size: 40px;
-  padding-left: 150px;
+  }
 
-}
+
+
+
+
+
+
+
+
+
+
+
+h1 {font-family: 'Inconsolata', monospace;}
+h2 {font-family: 'Inconsolata', monospace;}
+h3 {font-family: 'Inconsolata', monospace;}
+h4 {font-family: 'Montserrat', sans-serif;}
+h5 {font-family: 'Montserrat', sans-serif;}
+h6 {font-family: 'Montserrat', sans-serif;}
+p {font-family: 'Montserrat', sans-serif;}
