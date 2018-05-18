@@ -60,17 +60,20 @@ nav ul{
     font-size: 40px;
     font-family: 'Inconsolata', monospace;
     padding: 0px 90px 0px 90px;
+    text-decoration: none;
 
   }
 
   nav ul li:hover{
     background-color: #7f9d9d;
     cursor: crosshair;
+    text-decoration: none;
   }
 
   nav ul li a:hover{
     color: white;
     cursor: crosshair;
+    text-decoration: none;
   }
 
 
@@ -208,20 +211,15 @@ color:#416856;}
    footer a:hover {
      cursor: crosshair;
    color:#131314;
-  	text-decoration : "none";
+  	text-decoration : none;
   }
 
 
 /*cache*/
 
 .mail{
-<<<<<<< HEAD
-	display: none
-		text-align : center;
-=======
 	display: none;
   text-align: center;
->>>>>>> 937ec8d679cc5548b58a921c75cb42a9e55e666f
 }
 
 body{
