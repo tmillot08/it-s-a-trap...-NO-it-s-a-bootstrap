@@ -15,7 +15,7 @@
   */
 
 nav{
-  background-color: #a4c5be7;
+  background-color: #a4c5be;
   display: flex;
   justify-content: flex-start;
 }
@@ -36,11 +36,14 @@ nav ul{
     height: 50px;
     color: #131314;
     font-size: 40px;
-    padding-left: 150px;
+    padding: 0px 75px 0px 75px;
 
   }
 
-
+nav ul li:hover {
+  background-color: black;
+  cursor: crosshair;
+}
 
 
 
