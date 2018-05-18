@@ -105,17 +105,9 @@ nav ul{
   text-align:justify;
   }
 
-<<<<<<< HEAD
   img {
     height: 80%;
     width: 100%;
-=======
-
-
-
-
-
-
 
   .btn-primary {
     color: #131314;
@@ -128,29 +120,3 @@ nav ul{
     background-color: #ffffff;
     border-color: #131314;
   }
-<<<<<<< HEAD
-=======
-
-  .btn-primary:focus, .btn-primary.focus {
-    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-  }
-
-  .btn-primary.disabled, .btn-primary:disabled {
-    color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
-  }
-
-  .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
-  .show > .btn-primary.dropdown-toggle {
-    color: #fff;
-    background-color: #0062cc;
-    border-color: #005cbf;
-  }
-
-  .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
-  .show > .btn-primary.dropdown-toggle:focus {
-    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
->>>>>>> 42d54d920d6d3263a68527c03d9bde7a869fab18
-  }
->>>>>>> 51f030611344e871953191a47730caa0b470c040
