@@ -215,9 +215,10 @@ color:#416856;}
 /*cache*/
 
 .mail{
-	display: none ;
+	display: none;
+  text-align: center;
 }
 
 body{
-  background-color: rgba(164,197,190, 0.5);
+  background-color: rgba(164,197,190, 0.4);
 }
