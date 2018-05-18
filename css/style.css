@@ -14,7 +14,21 @@
    *Paragraphes : font-family: 'Montserrat', sans-serif;
   */
 
+<<<<<<< HEAD
   <<<<<<< HEAD
+=======
+nav{
+  background-color: #a4c5be7;
+  display: flex;
+  justify-content: flex-start;
+}
+
+nav ul{
+  display: flex;
+  justify-content: flex-start;
+}
+
+>>>>>>> b1f9100dcdc8e1eeb26aeef97ce9f9e825e4ee77
   nav ul li{
     display: block;
     height: 50px
@@ -35,6 +49,7 @@
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -77,3 +92,12 @@
   color:#131314;
   text-align:justify;   
   }
+=======
+h1 {font-family: 'Inconsolata', monospace;}
+h2 {font-family: 'Inconsolata', monospace;}
+h3 {font-family: 'Inconsolata', monospace;}
+h4 {font-family: 'Montserrat', sans-serif;}
+h5 {font-family: 'Montserrat', sans-serif;}
+h6 {font-family: 'Montserrat', sans-serif;}
+p {font-family: 'Montserrat', sans-serif;}
+>>>>>>> b1f9100dcdc8e1eeb26aeef97ce9f9e825e4ee77
