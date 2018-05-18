@@ -13,6 +13,7 @@
    *Titres : font-family: 'Inconsolata', monospace;
    *Paragraphes : font-family: 'Montserrat', sans-serif;
   */
+
   <<<<<<< HEAD
   nav ul li{
     display: block;
@@ -40,10 +41,39 @@
 
 
 
-h1 {font-family: 'Inconsolata', monospace;}
-h2 {font-family: 'Inconsolata', monospace;}
-h3 {font-family: 'Inconsolata', monospace;}
-h4 {font-family: 'Montserrat', sans-serif;}
-h5 {font-family: 'Montserrat', sans-serif;}
-h6 {font-family: 'Montserrat', sans-serif;}
-p {font-family: 'Montserrat', sans-serif;}
+  h1 {font-family: 'Inconsolata', monospace;
+    color:#131314;
+    text-align:justify;
+    letter-spacing:10px;
+  }
+
+  h2 {font-family: 'Inconsolata', monospace;
+  color:#131314;
+  text-align:justify;
+  letter-spacing:5px;
+  }
+
+  h3 {font-family: 'Inconsolata', monospace;
+  color:#131314;
+  text-align:justify;
+  }
+
+  h4 {font-family: 'Montserrat', sans-serif;
+  color:#131314;
+  text-align:justify;
+  }
+
+  h5 {font-family: 'Montserrat', sans-serif;
+  color:#131314;
+  text-align:justify;
+  }
+
+  h6 {font-family: 'Montserrat', sans-serif;
+  color:#131314;
+  text-align:justify;
+  }
+
+  p {font-family: 'Montserrat', sans-serif;
+  color:#131314;
+  text-align:justify;   
+  }
