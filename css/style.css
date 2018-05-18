@@ -93,8 +93,8 @@ nav ul{
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba (198, 198, 200, 0.8);
-    backopacity: 0.8;
+    background-color: gray;
+    opacity: 80%;
     z-index: 2;
     cursor: pointer;
 }
@@ -103,8 +103,8 @@ nav ul{
     position: absolute;
     top: 50%;
     left: 50%;
-    height: 80%;
-    width: 80%;
+    height: 50%;
+    width: 50%;
     transform: translate(-50%,-50%);
     -ms-transform: translate(-50%,-50%);
 }
@@ -172,7 +172,7 @@ nav ul{
   /*footer*/
   footer {
     padding:25px;
-    border-radius:5px;
+
     background-color : rgba(127,157,157, 0.5);
     color : #131314;
     font-family: 'Inconsolata', monospace;
@@ -211,6 +211,7 @@ color:#416856;}
    color:#131314;
   	text-decoration : none;
   }
+<<<<<<< HEAD
 
 /*cache*/
 
@@ -221,3 +222,5 @@ color:#416856;}
 body{
   background-color: lightblue
 }
+=======
+>>>>>>> 2f7493e01460dd131916713e36c062829d87c75d
